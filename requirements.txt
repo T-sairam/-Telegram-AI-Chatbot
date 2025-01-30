@@ -1,0 +1,7 @@
+python-telegram-bot
+google-generativeai
+pymongo
+requests
+python-dotenv
+beautifulsoup4
+PyPDF2
